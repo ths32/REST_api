@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Api\\": "src/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^2.0"
+        
+    }
+}
